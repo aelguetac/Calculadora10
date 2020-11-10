@@ -1,0 +1,37 @@
+commit 3bb4fe051eec8be8d324e529a9bc7137e77c8745
+Author: aelguetac <alejandro.elgueta@gmail.com>
+Date:   Mon Nov 9 22:53:49 2020 -0300
+
+    se agreaga archivo log
+
+commit cf77ceb50fb3f248345f5f1c356e2eca4156dba1
+Author: aelguetac <alejandro.elgueta@gmail.com>
+Date:   Mon Nov 9 22:33:25 2020 -0300
+
+    se crea repo calculadora10
+ultim commit
+
+commit b28cf39d70738370656f9f84bb903b420de9b644
+Merge: 3bb4fe0 d4ecafd
+Author: aelguetac <alejandro.elgueta@gmail.com>
+Date:   Mon Nov 9 22:55:56 2020 -0300
+
+    Merge branch 'FuncionesCalculadora'
+
+commit 3bb4fe051eec8be8d324e529a9bc7137e77c8745
+Author: aelguetac <alejandro.elgueta@gmail.com>
+Date:   Mon Nov 9 22:53:49 2020 -0300
+
+    se agreaga archivo log
+
+commit d4ecafd96a7b47cdce5eafd4e835427e75f11544
+Author: aelguetac <alejandro.elgueta@gmail.com>
+Date:   Mon Nov 9 22:49:19 2020 -0300
+
+    se finaliza código
+
+commit cf77ceb50fb3f248345f5f1c356e2eca4156dba1
+Author: aelguetac <alejandro.elgueta@gmail.com>
+Date:   Mon Nov 9 22:33:25 2020 -0300
+
+    se crea repo calculadora10
